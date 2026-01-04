@@ -6,11 +6,11 @@
   },
   "miniapp": {
     "version": "1",
-    "name": "GM Base",
-    "iconUrl": "https://base-gm.vercel.app/icon.jpg",
-    "homeUrl": "https://base-gm.vercel.app",
-    "imageUrl": "https://base-gm.vercel.app/og-image.jpg",
-    "splashImageUrl": "https://base-gm.vercel.app/splash.jpg",
+    "name": "GMOff Base",
+    "iconUrl": "https://gm-base-bay.vercel.app/icon.jpg",
+    "homeUrl": "https://gm-base-bay.vercel.app",
+    "imageUrl": "https://gm-base-bay.vercel.app",
+    "splashImageUrl": "https://gm-base-bay.vercel.app/splash.jpg",
     "splashBackgroundColor": "#581c87",
     "primaryCategory": "social",
     "tags": ["social", "daily", "gm", "streak", "base"]
